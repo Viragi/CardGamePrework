@@ -1,0 +1,34 @@
+
+/* .cointainer{
+  overflow:hidden;
+  width:200px;  
+  height:10px
+} */
+ .imagecointainer{
+    display:inline;
+} 
+.imageHolder{
+  height:200px;
+  width:150px;
+  border-radius: 5px;
+  background-size: 100% 100%;
+
+}
+.grid{
+  width: 600px;
+
+}
+body{
+    margin: auto;
+    width: 50%;    
+    padding: 10px;
+} 
+.startbutton,#score{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+} 
+#startbtn{
+  padding: 10px 10px;
+  border-radius: 10px;
+}
